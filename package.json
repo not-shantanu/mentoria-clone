@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -37,7 +36,6 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.4.17"
-=======
   "name": "backend",
   "version": "1.0.0",
   "description": "",
@@ -53,6 +51,5 @@
     "express": "^4.21.2",
     "multer": "^1.4.5-lts.1",
     "xlsx": "^0.18.5"
->>>>>>> 2357c2e39b6d3e7b865831ebcf109a28d15cd9d2
   }
 }
